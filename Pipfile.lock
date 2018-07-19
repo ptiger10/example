@@ -1,0 +1,34 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "05d2ac3d29167f719a4e26d493bcb4c36405aa6317ed3efd254c441da190e84a"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            },
+            {
+                "name": "test",
+                "url": "https://test.pypi.org/simple/",
+                "verify_ssl": false
+            }
+        ]
+    },
+    "default": {
+        "example-pkg-20180718": {
+            "hashes": [
+                "sha256:4079e14fbe103e013f20bca14f1b72db51f6f4e1c7b3885bdbcd747137171c8d",
+                "sha256:a46f7438fb3ad8c5542036207bc7a992c4f34cd2994636e6cb95ebf1bc3bf246"
+            ],
+            "index": "test",
+            "version": "==0.0.2"
+        }
+    },
+    "develop": {}
+}

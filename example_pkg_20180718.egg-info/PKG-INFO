@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: example-pkg-20180718
+Version: 0.0.2
+Summary: A small example package
+Home-page: https://github.com/pypa/sampleproject
+Author: Dave Fort
+Author-email: ptiger10@gmail.com
+License: UNKNOWN
+Description: ## How to use
+        pipenv install example_pkg_20180718
+        import example_pkg
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
